@@ -1,2 +1,2 @@
 # Meals App
-A UI based app build using Flutter and as programming language.
+A UI based app build using Flutter and Dart  as a programming language.
